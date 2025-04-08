@@ -11,7 +11,7 @@ dependencies:
   # xeus-cpp
   - xeus-cling
   - xeus-lua
-  - jupyter-offlinenotebook
+  # jupyter-offlinenotebook
   # ipywidgets
   # ipyevents
   # ipympl
