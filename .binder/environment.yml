@@ -20,6 +20,6 @@ dependencies:
   - nbconvert
   # plotly
   # bqplot
-  - pip
+  # pip
   - vim
-  # nano
+  - nano
