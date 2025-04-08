@@ -9,9 +9,9 @@ dependencies:
   - xeus-python
   - xeus-javascript
   # xeus-cpp
-  xeus-cling
-  xeus-lua
-  jupyter-offlinenotebook
+  - xeus-cling
+  - xeus-lua
+  - jupyter-offlinenotebook
   # ipywidgets
   # ipyevents
   # ipympl
@@ -20,6 +20,6 @@ dependencies:
   - nbconvert
   # plotly
   # bqplot
-  pip
-  vim
+  - pip
+  - vim
   # nano
