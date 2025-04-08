@@ -40,3 +40,4 @@ dependencies:
   - mc
   - ranger-fm
   - htop
+  - screenfetch
