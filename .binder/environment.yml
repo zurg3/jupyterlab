@@ -2,12 +2,12 @@ name: jupyterlab-binder
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.12
   - jupyterlab
   - notebook
   - ipykernel
   - xeus-python
-  - xeus-javascript
+  # xeus-javascript
   # xeus-cpp
   # xeus-cling
   # xeus-lua
