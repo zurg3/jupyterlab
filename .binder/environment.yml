@@ -7,19 +7,18 @@ dependencies:
   - notebook
   - ipykernel
   - xeus-python
-  # xeus-javascript
-  # xeus-cpp
-  # xeus-cling
-  # xeus-lua
-  # jupyter-offlinenotebook
-  # ipywidgets
-  # ipyevents
-  # ipympl
-  # ipycanvas
-  # ipyleaflet
+  - xeus-cpp
+  - xeus-cling
+  - xeus-lua
+  - jupyter-offlinenotebook
+  - ipywidgets
+  - ipyevents
+  - ipympl
+  - ipycanvas
+  - ipyleaflet
   - nbconvert
-  # plotly
-  # bqplot
-  # pip
-  # vim
-  # nano
+  - plotly
+  - bqplot
+  - pip
+  - vim
+  - nano
