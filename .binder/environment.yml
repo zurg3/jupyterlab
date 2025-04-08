@@ -7,7 +7,7 @@ dependencies:
   - notebook
   - ipykernel
   - xeus-python
-  # xeus-cpp
+  - xeus-cpp
   # xeus-cling
   - xeus-lua
   - jupyter-offlinenotebook
