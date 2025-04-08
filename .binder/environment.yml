@@ -5,6 +5,7 @@ dependencies:
   # Runtimes
   - python=3.12
   - nodejs=16
+  - ruby=3.3
   # Package managers
   - pip
   # Core modules
@@ -29,8 +30,13 @@ dependencies:
   - plotly
   - bqplot
   # Additional packages
+  - util-linux
+  - git
   - vim
   - nano
+  - micro
+  - tree
+  - bat
+  - mc
   - ranger-fm
   - htop
-  - tree
