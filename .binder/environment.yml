@@ -9,7 +9,7 @@ dependencies:
   - xeus-python
   - xeus-cpp
   - xeus-cling
-  - xeus-lua
+  # xeus-lua
   - jupyter-offlinenotebook
   - ipywidgets
   - ipyevents
