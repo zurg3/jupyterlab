@@ -2,14 +2,24 @@ name: jupyterlab-binder
 channels:
   - conda-forge
 dependencies:
+  # Runtimes
   - python=3.12
+  - nodejs=16
+  # Package managers
+  - pip
+  # Core modules
   - jupyterlab
   - notebook
+  # Kernels
   - ipykernel
   - xeus-python
   - xeus-cpp
   - xeus-lua
+  # Languages
+  - jupyterlab-language-pack-ru-RU
+  # Extensions
   - jupyter-offlinenotebook
+  # Python libraries
   - ipywidgets
   - ipyevents
   - ipympl
@@ -18,6 +28,9 @@ dependencies:
   - nbconvert
   - plotly
   - bqplot
-  - pip
+  # Additional packages
   - vim
   - nano
+  - ranger-fm
+  - htop
+  - tree
