@@ -32,6 +32,7 @@ dependencies:
   # Additional packages
   - util-linux
   - git
+  - cmake
   - vim
   - nano
   - micro
