@@ -21,4 +21,4 @@ dependencies:
   - bqplot
   - pip
   - vim
-  - nano
+  # nano
