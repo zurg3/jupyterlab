@@ -8,8 +8,6 @@ dependencies:
   - ipykernel
   - xeus-python
   - xeus-cpp
-  - xeus-cling
-  - libstdcxx-devel_linux-64
   - xeus-lua
   - jupyter-offlinenotebook
   - ipywidgets
