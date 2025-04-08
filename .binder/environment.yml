@@ -1,18 +1,17 @@
 name: jupyterlab-binder
 channels:
   - conda-forge
-  - nodefaults
 dependencies:
   - python=3.12
   - jupyterlab
   - notebook
   - ipykernel
-  # xeus-python
-  # xeus-javascript
+  - xeus-python
+  - xeus-javascript
   # xeus-cpp
-  # xeus-cling
-  # xeus-lua
-  # jupyter-offlinenotebook
+  xeus-cling
+  xeus-lua
+  jupyter-offlinenotebook
   # ipywidgets
   # ipyevents
   # ipympl
@@ -21,6 +20,6 @@ dependencies:
   - nbconvert
   # plotly
   # bqplot
-  # pip
-  # vim
+  pip
+  vim
   # nano
