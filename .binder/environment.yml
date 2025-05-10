@@ -9,8 +9,8 @@ dependencies:
   # Package managers
   - pip
   # Core modules
-  - jupyterlab=4.4.1
-  - notebook=7.4.1
+  - jupyterlab=4.4.2
+  - notebook=7.4.2
   # Kernels
   - ipykernel
   - xeus-python
