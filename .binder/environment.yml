@@ -6,7 +6,6 @@ dependencies:
   - python=3.12
   - nodejs=20
   - ruby=3.4
-  - gcc=15
   # Package managers
   - pip
   # Core modules
