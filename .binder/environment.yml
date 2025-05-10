@@ -4,8 +4,8 @@ channels:
 dependencies:
   # Runtimes
   - python=3.12
-  - nodejs=16
-  - ruby=3.3
+  - nodejs=20
+  - ruby=3.4
   # Package managers
   - pip
   # Core modules
