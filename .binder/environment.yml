@@ -9,7 +9,7 @@ dependencies:
   # Package managers
   - pip
   # Core modules
-  - jupyterlab=4.4.4
+  - jupyterlab=4.4.5
   - notebook=7.4.4
   # Kernels
   - ipykernel
