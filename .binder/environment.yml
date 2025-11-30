@@ -3,14 +3,14 @@ channels:
   - conda-forge
 dependencies:
   # Runtimes
-  - python=3.12
+  - python=3.14
   - nodejs=24
   - ruby=3.4
   # Package managers
   - pip
   # Core modules
-  - jupyterlab=4.4.10
-  - notebook=7.4.7
+  - jupyterlab=4.5.0
+  - notebook=7.5.0
   # Kernels
   - ipykernel
   - xeus-python
