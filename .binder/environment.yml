@@ -17,7 +17,7 @@ dependencies:
   - xeus-cpp
   - xeus-lua
   # Languages
-  - jupyterlab-language-pack-ru-RU
+  - jupyterlab-language-pack-ru-ru
   # Extensions
   - jupyter-offlinenotebook
   - nbconvert
