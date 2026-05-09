@@ -20,15 +20,7 @@ dependencies:
   - jupyterlab-language-pack-ru-RU
   # Extensions
   - jupyter-offlinenotebook
-  # Python libraries
-  - ipywidgets
-  - ipyevents
-  - ipympl
-  - ipycanvas
-  - ipyleaflet
   - nbconvert
-  - plotly
-  - bqplot
   # Additional packages
   - util-linux
   - git
